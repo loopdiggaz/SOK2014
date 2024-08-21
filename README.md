@@ -1,2 +1,2 @@
 # SOK2014
- Nytte-kostands analyse 
+Her vil jeg jobbe med prosjektoppgaven i SOK2014 - kostand- og nytteanalyse 
