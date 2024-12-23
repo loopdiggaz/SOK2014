@@ -1,0 +1,3 @@
+Link til GitHub repo: https://github.com/loopdiggaz/SOK2014
+
+PDF filen er det endelige utkastet. Det kan derfor være forskjeller mellom .ipynb filen mot PDF filen. 
